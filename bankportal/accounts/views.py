@@ -41,5 +41,3 @@ def user_dashboard(request):
 def user_logout(request):
     logout(request)
     return redirect('login')
-
-
