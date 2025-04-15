@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-g-!gqsy!9!2r$g4*zaq-_o(f*rqkarvp51j3)d14=3b-$rf^z%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bankportal-08eq.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
